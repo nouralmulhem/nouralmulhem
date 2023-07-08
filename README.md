@@ -1,6 +1,11 @@
 <h3 align="center">A third year Computer Engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=0e75b6&style=flat" alt="nouralmulhem" /> </p>
+<div>
+<p align="left" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=0e75b6&style=flat" alt="nouralmulhem" /> </p>
+<br/>
+<br/>
+
+
 
 <!-- <h3 align="center"></h3> -->
 <div align="center">
@@ -10,6 +15,10 @@
 </div>
 
 <p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/nour--almulhem--1817251b0-Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnour-almulhem-1817251b0%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/nouralmulhem-facebook-blue?style=flat-square&link=https%3A%2F%2Fwww.facebook.com%2Fnouralmulhem%2F">
+
+
 <a href="https://linkedin.com/in/nouralmulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
 <a href="https://fb.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.almulhem" height="30" width="40" /></a>
 <a href="https://instagram.com/nour.almulhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhen" height="30" width="40" /></a>
@@ -18,8 +27,25 @@
 
 <br/>
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="Code.gif"/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <div align="center">
 
