@@ -19,10 +19,10 @@
 
 </div>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
-<img alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
-<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
-<img alt="Static Badge" src="https://img.shields.io/badge/Physics_Teaching_Assistant-%40Abdelmaboud_team-8A2BE2?style=flat-square&color=1c7300&logo=hyperledger">
+<img style="display: inline;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
+<img style="display: inline;" alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
+<img style="display: inline;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
+<img style="display: inline;" alt="Static Badge" src="https://img.shields.io/badge/Physics_Teaching_Assistant-%40Abdelmaboud_team-8A2BE2?style=flat-square&color=1c7300&logo=hyperledger">
 
 <br>
 
