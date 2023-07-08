@@ -83,9 +83,9 @@
 </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/nouralmulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nour-almulhem-1817251b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
 <a href="https://fb.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.almulhem" height="30" width="40" /></a>
-<a href="https://instagram.com/nour.almulhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhen" height="30" width="40" /></a>
+<a href="https://instagram.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhem" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nour_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nour_ml" height="30" width="40" /></a>
 </p>
 
