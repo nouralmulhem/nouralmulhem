@@ -11,7 +11,7 @@
 
 <div align="center">
 <p align="center" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=1c7300&style=flat-square" alt="nouralmulhem" /> </p>
-<a href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
+<a style="display: inline;" href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
 <img alt="Static Badge" src="https://img.shields.io/badge/nour_almulhem-Resume-8A2BE2?style=flat-square&color=1c7300">
 </a>
 </div>
