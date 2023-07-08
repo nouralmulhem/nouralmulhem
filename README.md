@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## working experience and trainings
+## Working experience and trainings
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-## technical skills
+## Technical skills
 
 
 <p align="center" > 
@@ -93,12 +93,12 @@
 
 <div align="center">
 
-## Contribution
+## Contributions
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouralmulhem&show_icons=true&locale=en&layout=compact" alt="nouralmulhem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouralmulhem&show_icons=true&locale=en&layout=compact&theme=dark" alt="nouralmulhem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouralmulhem&show_icons=true&locale=en" alt="nouralmulhem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouralmulhem&show_icons=true&locale=en&theme=dark" alt="nouralmulhem" /></p>
 </div>
 
