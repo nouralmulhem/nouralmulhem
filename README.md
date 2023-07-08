@@ -1,59 +1,37 @@
-<h3 align="center">A third year Computer Engineering student</h3>
-
-<div>
-<p align="left" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=0e75b6&style=flat" alt="nouralmulhem" /> </p>
-<br/>
-<br/>
-
-
-
-<!-- <h3 align="center"></h3> -->
 <div align="center">
 
-## connect with me 
+## Hey, it is Nour Almulhem! 👋🏻
+
+</div>
+<div align="center">
+<img align="center" alt="Coding" width="400" src="Code.gif"/>
+</div>
+
+<h4 align="center">A third year Computer Engineering student who is looking for a challenging position that will effectively build my experience</h4>
+
+<div align="center">
+<p align="center" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=1c7300&style=flat-square" alt="nouralmulhem" /> </p>
+</div>
+
+<div align="center">
+
+## working experience and trainings
 
 </div>
 
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/nour--almulhem--1817251b0-Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnour-almulhem-1817251b0%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/nouralmulhem-facebook-blue?style=flat-square&link=https%3A%2F%2Fwww.facebook.com%2Fnouralmulhem%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
+<img alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
+<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
+<img alt="Static Badge" src="https://img.shields.io/badge/Physics_Teaching_Assistant-%40Abdelmaboud_team-8A2BE2?style=flat-square&color=1c7300&logo=hyperledger">
 
+<br>
 
-<a href="https://linkedin.com/in/nouralmulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
-<a href="https://fb.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.almulhem" height="30" width="40" /></a>
-<a href="https://instagram.com/nour.almulhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhen" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nour_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nour_ml" height="30" width="40" /></a>
-</p>
-
-<br/>
-
-<img align="right" alt="Coding" width="400" src="Code.gif"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<!-- <h3 align="left">Languages and Tools:</h3> -->
 <div align="center">
 
 ## technical skills
 
-</div>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -90,7 +68,33 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouralmulhem&show_icons=true&locale=en&layout=compact" alt="nouralmulhem" /></p>
+<br>
+
+<div align="center">
+
+## Connect with me 
+
+</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/nouralmulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
+<a href="https://fb.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.almulhem" height="30" width="40" /></a>
+<a href="https://instagram.com/nour.almulhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhen" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nour_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nour_ml" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+
+## Contribution
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouralmulhem&show_icons=true&locale=en&layout=compact" alt="nouralmulhem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouralmulhem&show_icons=true&locale=en" alt="nouralmulhem" /></p>
+</div>
+
