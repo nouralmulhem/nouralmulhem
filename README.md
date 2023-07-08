@@ -19,14 +19,12 @@
 
 </div>
 
-<div style="display: inline;">
-<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
-</div>
-<div style="display: inline;">
-<img alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
-</div>
-<img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
+<div style="display: flex;">
+<img style="margin-right: 5px;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
+<img style="margin-right: 5px;" alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
+<img style="margin-right: 5px;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
 <img alt="Static Badge" src="https://img.shields.io/badge/Physics_Teaching_Assistant-%40Abdelmaboud_team-8A2BE2?style=flat-square&color=1c7300&logo=hyperledger">
+</div>
 
 <br>
 
