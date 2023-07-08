@@ -9,9 +9,9 @@
 
 <h4 align="center">A third year Computer Engineering student who is looking for a challenging position that will effectively build my experience</h4>
 
-<div align="center" style="display: flex;">
-<p align="center" style="display: inline; margin-right: 20px;"> <img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=1c7300&style=flat-square" alt="nouralmulhem" /> </p>
-<a style="display: inline;" href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
+<div align="center" >
+<img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=1c7300&style=flat-square" alt="nouralmulhem" /> 
+<a href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
 <img alt="Static Badge" src="https://img.shields.io/badge/nour_almulhem-Resume-8A2BE2?style=flat-square&color=1c7300">
 </a>
 </div>
